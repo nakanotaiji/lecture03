@@ -13,5 +13,5 @@ var helloChiko = function(){
 };
 
 var showHelloChikoButton = document.getElementById("showHelloChiko");
-showHelloWorldButton.addEventListener("click", helloChiko);
+showHelloChikoButton.addEventListener("click", helloChiko);
 
